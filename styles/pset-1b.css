@@ -1,0 +1,51 @@
+* {
+    margin: 7;
+    padding: 7;
+}
+h2 {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 40px;
+}
+.section {
+    color: blue;
+}
+table {
+    /* border: 2px solid black; */
+    border-collapse: collapse;
+}
+a {
+    color: teal;
+}
+.section-header {
+    color: navy;
+    font-size:35px;
+    font-weight: bold;
+}
+.section5 {
+    color: gray;
+}
+body {
+  background-color: rgb(194, 227, 240)
+}
+img {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: black;
+}
+#section2 {
+    border: 1px solid black;
+}
+#section3 {
+    border: 1px solid black;
+}
+#section9 {
+    border: 1px solid black;
+}
+a[href="https://www.ucvts.tec.nj.us"] {
+    color: navy;
+}
+div h1.psuedo {
+    color: navy;
+}
