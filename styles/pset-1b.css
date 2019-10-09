@@ -49,3 +49,6 @@ a[href="https://www.ucvts.tec.nj.us"] {
 div h1.psuedo {
     color: navy;
 }
+div p {
+    /* targets the paragraph */
+}
